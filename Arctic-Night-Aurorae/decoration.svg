@@ -26,11 +26,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="3.6203868"
-     inkscape:cx="391.25654"
-     inkscape:cy="29.69296"
+     inkscape:zoom="1.28"
+     inkscape:cx="300.39062"
+     inkscape:cy="11.71875"
      inkscape:window-width="1366"
-     inkscape:window-height="734"
+     inkscape:window-height="733"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -478,10 +478,6 @@
        d="m 184,25 h 80 v 24 h -80 z" />
   </g>
   <g
-     id="decoration-inactive-topleft"
-     transform="translate(211,2.999999)"
-     style="fill-rule:evenodd" />
-  <g
      id="decoration-inactive-left"
      transform="translate(58,-15)"
      style="fill-rule:evenodd">
@@ -502,7 +498,7 @@
        d="m 49,-184 h 80 v 24 H 49 Z" />
   </g>
   <path
-     id="rect173-5"
+     id="decoration-inactive-topleft"
      style="fill-opacity:0.533333;fill-rule:evenodd;stroke-width:3.45078"
      d="M 230.5,10 H 242 V 34 H 218 V 22.5 A 12.5,12.5 135 0 1 230.5,10 Z"
      inkscape:path-effect="#path-effect274-7"
