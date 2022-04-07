@@ -14,3 +14,4 @@ cd Arctic-Night-KDE
 chmod +x ./install.sh
 ./install.sh
 ```
+If you want to uninstall it run: `./uninstall.sh`
