@@ -17,8 +17,10 @@ chmod +x ./install.sh
 
 ## How to update
 If you've already install the themes and want to get the latest version run:
+
 `./update.sh`
 
 ## How to uninstall
 If you want to uninstall the themes run:
+
  `./uninstall.sh`
