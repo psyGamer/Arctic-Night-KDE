@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-mkdir -p ~/.local/share/aurorae/Arctic-Night
+mkdir -p ~/.local/share/aurorae/themes/Arctic-Night
 cp -r Arctic-Night-Aurorae ~/.local/share/aurorae/Arctic-Night
 printf "\033[0;32mSuccessfully installed Aurorae theme\n"
 
