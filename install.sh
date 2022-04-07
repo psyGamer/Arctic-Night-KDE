@@ -1,10 +1,10 @@
 #!/usr/bin/sh
 
-mkdir ~/.local/share/aurorae/Arctic-Night
+mkdir -p ~/.local/share/aurorae/Arctic-Night
 cp -r Arctic-Night-Aurorae ~/.local/share/aurorae/Arctic-Night
 printf "\033[0;32mSuccessfully installed Aurorae theme\n"
 
-mkdir ~/.config/Kvantum/themes/Arctic-Night
+mkdir -p ~/.config/Kvantum/themes/Arctic-Night
 cp -r Arctic-Night-Kvantum ~/.config/Kvantum/themes/Arctic-Night
 printf "\033[0;32mSuccessfully installed Kvantum theme\n"
 
