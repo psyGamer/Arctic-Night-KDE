@@ -1,9 +1,6 @@
 # Artic Night KDE
 A set of themes for KDE Plasma
 
-- Window Decorations based on [Nova Pengi](https://github.com/varlesh/nova-kde/tree/pengi)
-- Kvantum Theme based on [Sensual](https://github.com/L4ki/Sensual-Theme)
-
 ## How to install
 
 Run these commands in your terminal:
@@ -24,3 +21,7 @@ If you've already install the themes and want to get the latest version run:
 If you want to uninstall the themes run:
 
  `./uninstall.sh`
+
+## Credits
+- Window Decorations based on [Nova Pengi](https://github.com/varlesh/nova-kde/tree/pengi)
+- Kvantum Theme based on [Sensual](https://github.com/L4ki/Sensual-Theme)
