@@ -4,6 +4,13 @@ A set of themes for KDE Plasma
 - Window Decorations based on [Nova Pengi](https://github.com/varlesh/nova-kde/tree/pengi)
 - Kvantum Theme based on [Sensual](https://github.com/L4ki/Sensual-Theme)
 
+## Noitice
+It's recommended, that you use [Blur - Respect Rounded Corners](https://github.com/aleasto/kwin-effects-blur-respect-rounded-decorations) instead of the default Blur.
+
+When doing this, make sure to set the settings as shown below.
+
+![Blur settings](./images/corners.png)
+
 ## How to install
 
 Run these commands in your terminal:
