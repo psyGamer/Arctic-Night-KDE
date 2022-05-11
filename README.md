@@ -18,7 +18,7 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
-If to latest version, run: `./update.sh`
+If you want the latest version, run: `./update.sh`
 
 If you want to uninstall the themes, run: `./uninstall.sh`
 
