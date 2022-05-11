@@ -14,7 +14,7 @@
   <path
      id="decoration-topleft"
      style="fill-opacity:0.533333;fill-rule:evenodd;stroke-width:3.45078"
-     d="M 42.5,9.999999 H 54 V 34.000001 H 30 V 22.499999 a 12.5,12.5 135 0 1 12.5,-12.5 z"
+     d="M 30,9.999999 H 54 V 34.000001 H 30 Z"
      inkscape:path-effect="#path-effect274"
      inkscape:original-d="M 30,9.999999 H 54 V 34.000001 H 30 Z" />
   <sodipodi:namedview
@@ -27,10 +27,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.28"
-     inkscape:cx="300.39062"
-     inkscape:cy="11.71875"
+     inkscape:cx="183.20313"
+     inkscape:cy="74.609375"
      inkscape:window-width="1366"
-     inkscape:window-height="733"
+     inkscape:window-height="744"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +45,7 @@
        id="path-effect274"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,12.5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -345,7 +345,7 @@
        id="path-effect274-7"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,12.5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,0,0,1 @ F,0,1,1,0,0,0,1 @ F,0,1,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -362,7 +362,7 @@
        id="path-effect274-7-3"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,14,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -379,7 +379,7 @@
        id="path-effect274-7-3-6"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,14,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -500,19 +500,19 @@
   <path
      id="decoration-inactive-topleft"
      style="fill-opacity:0.533333;fill-rule:evenodd;stroke-width:3.45078"
-     d="M 230.5,10 H 242 V 34 H 218 V 22.5 A 12.5,12.5 135 0 1 230.5,10 Z"
+     d="m 218,10 h 24 v 24 h -24 z"
      inkscape:path-effect="#path-effect274-7"
      inkscape:original-d="m 218,10 h 24 v 24 h -24 z" />
   <path
      id="decoration-inactive-topright"
      style="fill-opacity:0.533333;fill-rule:evenodd;stroke-width:3.45078"
-     d="m 332,10 h -10 v 24 h 24 V 24 A 14,14 45 0 0 332,10 Z"
+     d="m 346,10 h -24 v 24 h 24 z"
      inkscape:path-effect="#path-effect274-7-3"
      inkscape:original-d="m 346,10 h -24 v 24 h 24 z" />
   <path
      id="decoration-topright"
      style="fill-opacity:0.533333;fill-rule:evenodd;stroke-width:3.45078"
-     d="m 144,9.999999 h -10 v 24 h 24 v -10 a 14,14 45 0 0 -14,-14 z"
+     d="m 158,9.999999 h -24 v 24 h 24 z"
      inkscape:path-effect="#path-effect274-7-3-6"
      inkscape:original-d="m 158,9.999999 h -24 v 24 h 24 z" />
 </svg>
