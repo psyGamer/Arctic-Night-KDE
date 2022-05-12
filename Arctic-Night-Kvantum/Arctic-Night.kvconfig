@@ -474,16 +474,15 @@ frame.expansion=0
 
 [Menu]
 inherits=PanelButtonCommand
-frame=true
-frame.top=10
-frame.bottom=10
-frame.left=10
-frame.right=10
+frame.top=15
+frame.bottom=15
+frame.left=15
+frame.right=15
 frame.element=menu
 interior.element=menu
 text.normal.color=#ffffff
-text.shadow=false
-frame.expansion=0
+text.shadow=true
+frame.expansion=10
 
 [GroupBox]
 inherits=GenericFrame

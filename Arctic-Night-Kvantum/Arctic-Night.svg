@@ -39,8 +39,8 @@
      id="namedview984"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="31.46875"
-     inkscape:cy="864.875"
+     inkscape:cx="21.28125"
+     inkscape:cy="860.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,7 +62,7 @@
      inkscape:snap-others="false"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="false">
     <inkscape:grid
        type="xygrid"
