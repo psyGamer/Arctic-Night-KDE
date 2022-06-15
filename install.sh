@@ -3,11 +3,11 @@
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 mkdir -p ~/.local/share/aurorae/themes
-cp -r ${SCRIPT_DIR}/Arctic-Night-Aurorae ~/.local/share/aurorae/themes/Arctic-Nightsus
+cp -r ${SCRIPT_DIR}/Arctic-Night-Aurorae ~/.local/share/aurorae/themes/Arctic-Night
 printf "\033[0;32mSuccessfully installed Aurorae theme\n"
 
 mkdir -p ~/.config/Kvantum/themes
-cp -r ${SCRIPT_DIR}/Arctic-Night-Kvantum ~/.config/Kvantum/Arctic-Nightsus
+cp -r ${SCRIPT_DIR}/Arctic-Night-Kvantum ~/.config/Kvantum/Arctic-Night
 printf "\033[0;32mSuccessfully installed Kvantum theme\n"
 
 chmod +x ./uninstall.sh
